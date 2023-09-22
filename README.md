@@ -1,6 +1,6 @@
 ### Hi there, I'm Lovepreet Singh 👋
 
-I'm a passionate web developer with a strong educational background in web development. Currently, Ppursuing  Postgraduate degree in Web Development from Humber College. My journey into the world of web development has been an exciting one, and I'm constantly learning and exploring new technologies to enhance my skills.
+I'm a passionate web developer with a strong educational background in web development. Currently, pursuing  Postgraduate degree in Web Development from Humber College. My journey into the world of web development has been an exciting one, and I'm constantly learning and exploring new technologies to enhance my skills.
 
 #### 🌐 About Me
 
