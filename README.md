@@ -1,4 +1,4 @@
-##  Lovepreet Singh
+##  Lovepreet-Singh
 
 
 <!--
