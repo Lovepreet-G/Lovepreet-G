@@ -23,8 +23,8 @@ I'm a passionate web developer with a strong educational background in web devel
 #### 📫 Get in Touch
 
 - 📧 You can reach out to me at [gillpreetsingh35@gmail.com](mailto:gillpreetsingh35@gmail.com).
-- 🌐 Connect with me on [LinkedIn]([https://www.linkedin.com/in/lovepreetsingh](https://www.linkedin.com/in/lovepreet-singh-b1771718a)).
-- 📱 Follow me on [Instagram]([https://twitter.com/yourtwitterhandle](https://instagram.com/lovepreett.gilll?igshid=MjEwN2IyYWYwYw==)).
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/lovepreet-singh-b1771718a).
+- 📱 Follow me on [Instagram](https://instagram.com/lovepreett.gilll?igshid=MjEwN2IyYWYwYw==).
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you and exploring the world of web development together! 🚀
 
